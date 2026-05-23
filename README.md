@@ -1,5 +1,5 @@
-# 🧠 Hi, I'm [Abdo_hak47]
-![abdo_hak47](https://github.com/abdoinfg/abdoinfg/blob/main/my.png)
+# 🧠 Hi, I'm [Abdo]
+![abdo](https://github.com/abdoinfg/abdoinfg/blob/main/my.png)
 
 > *"Any idea → real app. Any language. Any project. Nothing is impossible."*
 
