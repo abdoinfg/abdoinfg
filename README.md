@@ -1,5 +1,6 @@
 # 🧠 Hi, I'm [Abdo]
-![abdo](https://github.com/abdoinfg/abdoinfg/blob/main/my.png)
+<img width="100" height="100" alt="unnamed" src="https://github.com/user-attachments/assets/8b99e0d2-9dc8-4b53-95b1-745be7d9d490" />
+
 
 > *"Any idea → real app. Any language. Any project. Nothing is impossible."*
 
