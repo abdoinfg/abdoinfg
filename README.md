@@ -76,7 +76,7 @@ I turn concepts into working software – from local LLMs to cross‑platform ap
 - [GitHub](https://github.com/abdoinfg) (you’re already here)
 - [LinkedIn](https://www.linkedin.com/in/abdellah-houacine-151882393/)
 - [Youtube](http://www.youtube.com/@Abdo_hx47) – where I share dev experiments
-- ✉️ Email: a.houacine.infg@lagh-univ.dz
+- [Email](a.houacine.infg@lagh-univ.dz)
 
 > *Open to collaborating on ambitious, “impossible” projects. If you have an idea, I’ll help build it.*
 
